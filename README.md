@@ -1,3 +1,3 @@
 # hello-world
 first project test
-Hello, I"m Rik and tsting this platform. 
+Hello, I"m Rik and testing this platform. 
